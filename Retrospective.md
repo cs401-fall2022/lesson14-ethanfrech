@@ -1,7 +1,7 @@
 # Retrospective
 
-- name: Jane Doe
-- email: janedoe@u.boisestate.edu
+- name: ethanfrech
+- email: ethanfrech@u.boisestate.edu
 
 ## Instructions
 
@@ -21,12 +21,18 @@ Be safe CITE!
 
 ## Experience
 
-TODO
+Overall this was an interesting series of labs. I'm working with TypeScript in my senior design project currently
+so it's nice to have some additional exposure in this class. I've been able to apply some of the knowledge I came
+across when writing my own small tutorial. The lack of types in JavaScript has always frustrated me, it allows for a
+great deal of creativity and "getting away with things", but I prefer the structure and order that types provide in the 
+development process. I was able to get the module import and the jest tests working for testing the assigned "hello world"
+demo. The text switching has not been consistent on the github.io hosting platform.
 
 ## Known issues or Bugs
 
-TODO
+The text switching on the "Try Me!" button for the "hello world" demo has not been consistent on the github.io hosting platform.
+It has worked consitently on my local server however.
 
 ## Sources used
 
-TODO
+https://www.typescriptlang.org/docs/handbook/intro.html
